@@ -1,0 +1,6 @@
+Console.WriteLine("/n List of Items");
+Console.WriteLine("Bed");
+Console.WriteLine("TV");
+Console.WriteLine("AC");
+Console.WriteLine("Cupboard");
+Console.WriteLine("Chair");
