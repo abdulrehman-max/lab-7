@@ -4,3 +4,7 @@ Console.WriteLine("TV");
 Console.WriteLine("AC");
 Console.WriteLine("Cupboard");
 Console.WriteLine("Chair");
+
+
+
+Console.WriteLine("Added: {Table}");
